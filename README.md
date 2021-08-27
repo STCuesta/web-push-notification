@@ -4,5 +4,5 @@ A simple Reactjs form to test push notifications. It works together with web-pus
 
 To run it just:
 
-#npm i -s
-#npm start
+* npm i -s
+* npm start
